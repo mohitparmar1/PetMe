@@ -53,3 +53,4 @@ Contributors
 - [Alexis Pendleton](littlemissbuttons.github.io)
 - [Sk Muneeruddin](https://github.com/SHAIK-MUNEERUDDIN)
 - [Sai Prasad Wali](https://github.com/saiwali)
+- [Mohit Parmar](https://github.com/mohitparmar1)
